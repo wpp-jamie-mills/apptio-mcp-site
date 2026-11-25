@@ -1,0 +1,14 @@
+PAM Platform,Cloud Provider,Cloud subscription
+Alpha Platform,GCP,acme-alpha-prd
+Alpha Platform,GCP,acme-alpha-dev
+Alpha Platform,AWS,acme-alpha-aws-prd
+Beta Media,GCP,acme-beta-prd
+Beta Media,GCP,acme-beta-dev
+Beta Media,Azure,acme-beta-az-prd
+Gamma Analytics,AWS,acme-gamma-prd
+Gamma Analytics,AWS,acme-gamma-dev
+Delta Commerce,Azure,acme-delta-prd
+Delta Commerce,GCP,acme-delta-ops
+Beta Connect,AWS,acme-betaconnect-prd
+Epsilon Retail,GCP,acme-epsilon-prd
+Epsilon Retail,GCP,acme-epsilon-sbx
